@@ -1,0 +1,2 @@
+foo "Васильев" "Иван" 2000 "Москва" 55
+key "dspdgs" "jsdnfjn" 9092 "sndjvnjs" 45
